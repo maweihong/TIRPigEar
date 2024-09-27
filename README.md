@@ -20,5 +20,5 @@ You can download all the datasets through the Link: [https://pan.baidu.com/s/19V
 ![Example of a thermal infrared image of a pig in the TIRPigEar dataset](https://github.com/maweihong/TIRPigEar/blob/main/images/Example%20of%20a%20thermal%20infrared%20image%20of%20a%20pig%20in%20the%20TIRPigEar%20dataset.jpg)
 
 
-![Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121539#gistcomment-5121539 "Variability in RGB-TIR image pairings presented in the dataset.")
+![Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods](https://github.com/maweihong/TIRPigEar/blob/main/images/Comparison%20of%20the%20parameter%20size-accuracy%20(left)%20and%20latency-accuracy%20(right)%20trade-offs%20of%20the%20TIRPigEar%20dataset%20using%20different%20methods.jpg)
 
