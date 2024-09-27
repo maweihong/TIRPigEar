@@ -14,7 +14,7 @@ You can download all the datasets through the Link: [https://pan.baidu.com/s/19V
 
 # Display
 
-![The dataset contains various morphological variations of individual laying hens](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121536#gistcomment-5121536 "The dataset contains various morphological variations of individual laying hens.")
+![TIRPigEar dataset structure](https://github.com/maweihong/TIRPigEar/blob/main/images/TIRPigEar%20dataset%20structure.jpg)
 
 
 ![Diverse conditions of caged laying hens in the dataset.](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121537#gistcomment-5121537 "Diverse conditions of caged laying hens in the dataset.")
