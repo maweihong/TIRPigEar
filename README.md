@@ -14,7 +14,7 @@ You can download all the datasets through the Link: [https://pan.baidu.com/s/10t
 
 # Display
 
-![TIRPigEar dataset structure](https://github.com/maweihong/TIRPigEar/blob/main/images/TIRPigEar%20dataset%20structure.jpg)
+![TIRPigEar dataset structure](https://github.com/maweihong/TIRPigEar/blob/main/images/1.svg)
 TIRPigEar dataset structure
 
 ![Example of a thermal infrared image of a pig in the TIRPigEar dataset](https://github.com/maweihong/TIRPigEar/blob/main/images/Example%20of%20a%20thermal%20infrared%20image%20of%20a%20pig%20in%20the%20TIRPigEar%20dataset.jpg)
