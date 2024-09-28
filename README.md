@@ -14,11 +14,13 @@ You can download all the datasets through the Link: [https://pan.baidu.com/s/10t
 
 # Display
 
-![TIRPigEar dataset structure](https://github.com/maweihong/TIRPigEar/blob/main/images/1.svg)
+![Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods](https://github.com/maweihong/TIRPigEar/blob/main/images/Comparison%20of%20the%20parameter%20size-accuracy%20(left)%20and%20latency-accuracy%20(right)%20trade-offs%20of%20the%20TIRPigEar%20dataset%20using%20different%20methods.svg)
+Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods
+
+![TIRPigEar dataset structure](https://github.com/maweihong/TIRPigEar/blob/main/images/TIRPigEar%20dataset%20structure.svg)
 TIRPigEar dataset structure
 
 ![Example of a thermal infrared image of a pig in the TIRPigEar dataset](https://github.com/maweihong/TIRPigEar/blob/main/images/Example%20of%20a%20thermal%20infrared%20image%20of%20a%20pig%20in%20the%20TIRPigEar%20dataset.jpg)
 Example of a thermal infrared image of a pig in the TIRPigEar dataset
 
-![Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods](https://github.com/maweihong/TIRPigEar/blob/main/images/Comparison%20of%20the%20parameter%20size-accuracy%20(left)%20and%20latency-accuracy%20(right)%20trade-offs%20of%20the%20TIRPigEar%20dataset%20using%20different%20methods.jpg)
-Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods
+
