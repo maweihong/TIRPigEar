@@ -18,7 +18,7 @@ URL download of FLIR IP Config software for configuring and diagnosing FLIR-bran
 
 # Display
 
-![Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods](images/Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods.jpg)
+![Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods](https://github.com/maweihong/TIRPigEar/blob/main/images/Comparison%20of%20the%20parameter%20size-accuracy%20(left)%20and%20latency-accuracy%20(right)%20trade-offs%20of%20the%20TIRPigEar%20dataset%20using%20different%20methods.jpg)
 
 Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods
 
