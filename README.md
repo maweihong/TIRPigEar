@@ -16,6 +16,8 @@ URL download of FLIR Tools software for viewing image temperature data, image an
 
 URL download of FLIR IP Config software for configuring and diagnosing FLIR-branded network cameras and other IP devices: https://pan.baidu.com/s/1PuUvsZHMfAHLNEsfD9yFCg?pwd=tukb
 
+For tutorials and related principles on using FLIR Tools analysis software, please visit https://flir-scn.custhelp.com/app/answers/detail/a_id/1618/~/flir-tools-%E5%92%8Ctools%2B-%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B
+
 # Display
 
 ![Comparison of the parameter size-accuracy (left) and latency-accuracy (right) trade-offs of the TIRPigEar dataset using different methods](https://github.com/maweihong/TIRPigEar/blob/main/images/Comparison%20of%20the%20parameter%20size-accuracy%20(left)%20and%20latency-accuracy%20(right)%20trade-offs%20of%20the%20TIRPigEar%20dataset%20using%20different%20methods.jpg)
