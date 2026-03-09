@@ -10,7 +10,7 @@ We welcome feedback and corrections from all experts and will continue to update
 欢迎各位老师批评指正，后续我们将会继续更新、完善和共享相关数据。
 
 # Data Download
-You can download all the TIRPigEar datasets through the Link: https://pan.baidu.com/s/10tN6ynZDTucLuZ2MZtdAOg?pwd=TIRP
+You can download all the TIRPigEar datasets through the Link: https://pan.baidu.com/s/10tN6ynZDTucLuZ2MZtdAOg?pwd=TIRP   or  https://drive.google.com/file/d/1HLtYgwD7vOBE1a1OUFTVbLUPU2kIG5dW/view?usp=sharing
 
 URL download of FLIR Tools software for viewing image temperature data, image analysis, and report generation: https://pan.baidu.com/s/1t4rH4k2uq3a8WMUstH9Vhw?pwd=mawh
 
